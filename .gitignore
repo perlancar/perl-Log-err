@@ -1,0 +1,4 @@
+Log-err-*
+.build
+*~
+nytprof*
